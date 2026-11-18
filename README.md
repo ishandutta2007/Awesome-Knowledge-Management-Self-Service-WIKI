@@ -68,7 +68,7 @@ Self-hosting gives engineering, DevOps, and security teams total data ownership,
 
 All repositories below feature live GitHub star metrics (styled with `style=social&color=white`) sorted in descending order of popularity.
 
-| 📦 Repository & Stargazers | ⭐ GitHub Stars Badge | 💻 Primary Language | 📜 License | ✨ Highlights & Architecture |
+| 📦 Repository & Stargazers | ⭐ GitHub_Stars_Badge | 💻 Primary Language | 📜 License | ✨ Highlights & Architecture |
 | :--- | :--- | :--- | :--- | :--- |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Flutter / Rust | AGPL-3.0 | Modern open-source Notion alternative; local-first data ownership, offline-native support, and collaborative workspaces. |
 | **[AFFiNE](https://github.com/toeverything/AFFiNE)** | [![AFFiNE Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | TypeScript / Rust | MIT | Next-generation multimodal workspace unifying structured docs, infinite digital whiteboards, and relational tables. |
@@ -173,7 +173,7 @@ Contributions are welcome! Please follow these steps to add or update entries:
 2. 🌿 Create a feature branch (`git checkout -b feature/add-new-wiki`).
 3. 📝 Add entries to `README.md` keeping the tables sorted:
    - **SaaS Table**: Sorted descending by company valuation / revenue.
-   - **Open-Source Table**: Sorted descending by GitHub star count with badges linked to stargazers.
+   - **Open-Source Table**: Sorted descending by GitHub Stars_Count with badges linked to stargazers.
 4. ✅ Verify all links and pricing details.
 5. 🚀 Commit your changes and submit a pull request!
 
