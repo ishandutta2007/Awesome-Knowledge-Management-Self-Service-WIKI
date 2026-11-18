@@ -1,24 +1,35 @@
-# Awesome Knowledge Management & Self-Service Wiki [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Knowledge Management &amp; Self-Service Wiki Banner" width="100%" />
+</p>
 
-> A curated directory of the best **Knowledge Management Systems (KMS)**, **Internal Team Wikis**, **Self-Service Customer Knowledge Bases**, and **Docs-as-Code** platforms. Spanning leading SaaS software and self-hosted open-source GitHub alternatives.
+# 🚀 Awesome Knowledge Management & Self-Service Wiki [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Track Awesome List](https://img.shields.io/badge/Track-Awesome--List-blue.svg)](https://github.com/topics/knowledge-management)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Knowledge-Management-Self-Service-WIKI/pulls)
+> 🌟 A curated directory of the best **Knowledge Management Systems (KMS)**, **Internal Team Wikis**, **Self-Service Customer Knowledge Bases**, and **Docs-as-Code** platforms. Spanning leading SaaS software and self-hosted open-source GitHub alternatives.
+
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/topics/knowledge-management"><img src="https://img.shields.io/badge/Track-Awesome--List-blue.svg" alt="Track Awesome List" /></a>
+  <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Knowledge-Management-Self-Service-WIKI/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
 ## 📌 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS & Hosted Knowledge Platforms](#-saas--hosted-knowledge-platforms)
-- [Open-Source & Self-Hosted Wiki Solutions](#-open-source--self-hosted-wiki-solutions)
-  - [Open-Source Comparison & Star Ranking](#open-source-comparison--star-ranking)
-  - [Categorized Open-Source Deep Dive](#categorized-open-source-deep-dive)
-- [Core Architectural Stacks](#-core-architectural-stacks)
-- [How to Choose: SaaS vs. Self-Hosted](#-how-to-choose-saas-vs-self-hosted)
-- [How to Contribute](#-how-to-contribute)
-- [Disclaimer](#-disclaimer)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Knowledge Platforms](#️-saas--hosted-knowledge-platforms)
+- [🛠️ Open-Source & Self-Hosted Wiki Solutions](#️-open-source--self-hosted-wiki-solutions)
+  - [⭐ Open-Source Comparison & Star Ranking](#-open-source-comparison--star-ranking)
+  - [🔍 Categorized Open-Source Deep Dive](#-categorized-open-source-deep-dive)
+- [🏛️ Core Architectural Stacks](#️-core-architectural-stacks)
+- [⚖️ How to Choose: SaaS vs. Self-Hosted](#️-how-to-choose-saas-vs-self-hosted)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
+- [📄 Disclaimer](#-disclaimer)
 
 ---
 
@@ -34,7 +45,7 @@ The sector is **highly fragmented** rather than a winner-take-all monopoly: ente
 
 The table below catalogs premier commercial SaaS knowledge management platforms, sorted descending by company size (valuation / annual revenue).
 
-| Product | Company Scale / Valuation / Revenue | Starting Tier Pricing | Free Tier Limits / Free Trial Limits | Primary Use Case & Key Highlights |
+| 🏢 Product | 📈 Company Scale / Valuation / Revenue | 💳 Starting Tier Pricing | 🎁 Free Tier Limits / Free Trial Limits | 💡 Primary Use Case & Key Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Atlassian Confluence](https://www.atlassian.com/software/confluence)** | **~$42B–$63B Market Cap** *(Public: NASDAQ: TEAM, ~$4.4B ARR)* | **$6.05 / user / month** (Standard plan) | **Free Forever:** Up to 10 users, 2 GB file storage, unlimited spaces and pages, community support | Enterprise-grade structured team workspace with deep Jira/DevOps integration, page permissions, and Confluence Whiteboards. |
 | **[Zoho Learn / KB](https://www.zoho.com/learn/)** | **~$12.4B–$15B Valuation** *(Bootstrapped, ~$1.5B Revenue)* | **$1.00 / user / month** (Express plan, billed annually) | **Free Forever:** Up to 5 users, 3 spaces, 5 manuals, 5 courses, 1 GB storage limit | Unified company wiki and learning management system (LMS); articles, interactive runbooks, and staff training modules. |
@@ -53,11 +64,11 @@ The table below catalogs premier commercial SaaS knowledge management platforms,
 
 Self-hosting gives engineering, DevOps, and security teams total data ownership, local air-gapped security, zero vendor lock-in, and custom regulatory compliance (GDPR, HIPAA, SOC 2).
 
-### Open-Source Comparison & Star Ranking
+### ⭐ Open-Source Comparison & Star Ranking
 
 All repositories below feature live GitHub star metrics (styled with `style=social&color=white`) sorted in descending order of popularity.
 
-| Repository & Stargazers | GitHub Stars Badge | Primary Language | License | Highlights & Architecture |
+| 📦 Repository & Stargazers | ⭐ GitHub Stars Badge | 💻 Primary Language | 📜 License | ✨ Highlights & Architecture |
 | :--- | :--- | :--- | :--- | :--- |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Flutter / Rust | AGPL-3.0 | Modern open-source Notion alternative; local-first data ownership, offline-native support, and collaborative workspaces. |
 | **[AFFiNE](https://github.com/toeverything/AFFiNE)** | [![AFFiNE Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | TypeScript / Rust | MIT | Next-generation multimodal workspace unifying structured docs, infinite digital whiteboards, and relational tables. |
@@ -83,25 +94,25 @@ All repositories below feature live GitHub star metrics (styled with `style=soci
 
 ---
 
-### Categorized Open-Source Deep Dive
+### 🔍 Categorized Open-Source Deep Dive
 
-#### 1. Modern Team Wikis & Knowledge Workspaces
+#### 1. 🌐 Modern Team Wikis & Knowledge Workspaces
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) — Built with Flutter and Rust, AppFlowy offers native desktop/mobile apps and self-hosted cloud sync with complete privacy.
 - **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) — Unifies brainstorming whiteboards, structured docs, and kanban/table data in one canvas.
 - **[Outline](https://github.com/outline/outline)** [![Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers) — The premier open-source Confluence/Notion alternative for high-growth tech teams. Integrates with Slack, Google Workspace, and OIDC/SAML.
 - **[Docmost](https://github.com/docmost/docmost)** [![Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers) — Clean, modern document editor supporting multiplayer collaboration, nested page trees, and lightweight container deployments.
 
-#### 2. Structured Organizational Handbooks & Docs
+#### 2. 📚 Structured Organizational Handbooks & Docs
 - **[BookStack](https://github.com/BookStackApp/BookStack)** [![Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers) — Uses a familiar "Book / Chapter / Page" mental model. Features built-in diagramming (draw.io), multi-factor authentication, and LDAP/SAML support.
 - **[Wiki.js](https://github.com/requarks/wiki)** [![Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers) — Highly customizable Node.js wiki supporting PostgreSQL, MySQL, SQLite, and bidirectional Git commits for automated revision backups.
 
-#### 3. Networked Thought & Personal Knowledge Management (PKM)
+#### 3. 🧠 Networked Thought & Personal Knowledge Management (PKM)
 - **[Logseq](https://github.com/logseq/logseq)** [![Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers) — Outliner supporting bi-directional linking, query-based workflows, flashcards, and local Markdown/Org-mode files.
 - **[Memos](https://github.com/usememos/memos)** [![Stars](https://img.shields.io/github/stars/usememos/memos?style=social&color=white)](https://github.com/usememos/memos/stargazers) — Micro-blogging and fleeting knowledge capture engine with RESTful APIs, SQLite storage, and tags.
 - **[Foam](https://github.com/foambubble/foam)** [![Stars](https://img.shields.io/github/stars/foambubble/foam?style=social&color=white)](https://github.com/foambubble/foam/stargazers) — Transforms VS Code into a personal thinking workspace using standard Markdown files and wiki-style link graphs.
 - **[SilverBullet](https://github.com/silverbulletmd/silverbullet)** [![Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers) — An open, hackable knowledge notebook where pages can be queried like a database using embedded expressions.
 
-#### 4. Enterprise & Classic Wiki Engines
+#### 4. 🏛️ Enterprise & Classic Wiki Engines
 - **[MediaWiki](https://github.com/wikimedia/mediawiki)** [![Stars](https://img.shields.io/github/stars/wikimedia/mediawiki?style=social&color=white)](https://github.com/wikimedia/mediawiki/stargazers) — The gold standard for massive encyclopedic knowledge, complex category taxonomies, and multi-language enterprise wikis.
 - **[XWiki](https://github.com/xwiki/xwiki-platform)** [![Stars](https://img.shields.io/github/stars/xwiki/xwiki-platform?style=social&color=white)](https://github.com/xwiki/xwiki-platform/stargazers) — Enterprise Java-based wiki system featuring structured data entry, programmable macro engines, and Confluence migration tools.
 - **[DokuWiki](https://github.com/dokuwiki/dokuwiki)** [![Stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=social&color=white)](https://github.com/dokuwiki/dokuwiki/stargazers) — Flat-file database-free architecture ensures rapid deployment on shared hosting or lightweight containers.
@@ -144,13 +155,13 @@ flowchart TD
 
 ## ⚖️ How to Choose: SaaS vs. Self-Hosted
 
-| Decision Criterion | Hosted SaaS (Notion, Confluence, Helpjuice) | Self-Hosted Open Source (Outline, BookStack, Wiki.js) |
+| 📐 Decision Criterion | ☁️ Hosted SaaS (Notion, Confluence, Helpjuice) | 🖥️ Self-Hosted Open Source (Outline, BookStack, Wiki.js) |
 | :--- | :--- | :--- |
-| **Deployment Time** | Instant onboarding; zero server setup | Requires Docker, Kubernetes, or cloud VM provisioning |
-| **Data Governance** | Vendor-managed multi-tenant cloud | 100% on-premises / air-gapped data residency compliance |
-| **Maintenance Burden** | Zero maintenance; automatic security updates | Requires sysadmin updates, database backups, and SSL renewals |
-| **Cost Predictability** | Scales per user/month; can get expensive for large teams | Fixed infrastructure compute cost; completely free software licenses |
-| **Search & AI** | Integrated managed RAG and turnkey AI assistants | Requires integrating local LLMs or third-party vector/search engines |
+| **🚀 Deployment Time** | Instant onboarding; zero server setup | Requires Docker, Kubernetes, or cloud VM provisioning |
+| **🔒 Data Governance** | Vendor-managed multi-tenant cloud | 100% on-premises / air-gapped data residency compliance |
+| **🛠️ Maintenance Burden** | Zero maintenance; automatic security updates | Requires sysadmin updates, database backups, and SSL renewals |
+| **💰 Cost Predictability** | Scales per user/month; can get expensive for large teams | Fixed infrastructure compute cost; completely free software licenses |
+| **🤖 Search & AI** | Integrated managed RAG and turnkey AI assistants | Requires integrating local LLMs or third-party vector/search engines |
 
 ---
 
@@ -158,13 +169,31 @@ flowchart TD
 
 Contributions are welcome! Please follow these steps to add or update entries:
 
-1. Fork this repository.
-2. Create a feature branch (`git checkout -b feature/add-new-wiki`).
-3. Add entries to `README.md` keeping the tables sorted:
+1. 🍴 Fork this repository.
+2. 🌿 Create a feature branch (`git checkout -b feature/add-new-wiki`).
+3. 📝 Add entries to `README.md` keeping the tables sorted:
    - **SaaS Table**: Sorted descending by company valuation / revenue.
    - **Open-Source Table**: Sorted descending by GitHub star count with badges linked to stargazers.
-4. Verify all links and pricing details.
-5. Commit your changes and submit a pull request!
+4. ✅ Verify all links and pricing details.
+5. 🚀 Commit your changes and submit a pull request!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Knowledge-Management-Self-Service-WIKI&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Knowledge-Management-Self-Service-WIKI&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and using this curated directory! If you found this repository helpful, please consider:
+- ⭐ **Starring** the repository to show your appreciation!
+- 🍴 **Forking** it to keep a personal copy or contribute improvements.
+- 📢 **Sharing** it with friends, colleagues, and engineering communities.
+- ☕ **Buying a coffee / sponsoring** the maintainer via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this knowledge-sharing ecosystem thriving! 🙌
 
 ---
 
