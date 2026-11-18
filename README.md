@@ -173,7 +173,7 @@ Contributions are welcome! Please follow these steps to add or update entries:
 2. 🌿 Create a feature branch (`git checkout -b feature/add-new-wiki`).
 3. 📝 Add entries to `README.md` keeping the tables sorted:
    - **SaaS Table**: Sorted descending by company valuation / revenue.
-   - **Open-Source Table**: Sorted descending by GitHub Stars_Count with badges linked to stargazers.
+   - **Open-Source Table**: Sorted descending by GitHub_Stars_Count with badges linked to stargazers.
 4. ✅ Verify all links and pricing details.
 5. 🚀 Commit your changes and submit a pull request!
 
